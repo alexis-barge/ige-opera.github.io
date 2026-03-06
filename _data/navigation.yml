@@ -7,7 +7,7 @@ main:
     url: /people/
   - title: "Projects"
     url: /projects/
-  - title: "Meetings"
+  - title: "Team Meetings"
     url: /meetings/
   - title: "Open Science"
     url: /open-science/

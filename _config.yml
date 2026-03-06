@@ -21,14 +21,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "OPERA : open computational earth and climate science research"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+subtitle                 : " "
+name                     : "OPERA"
 description              : >- # this means to ignore newlines until "baseurl:"
-                              Blabla team
+                              Open computational earth and climate science research
 url                      : "https://ige-opera.github.io"
 repository               : "IGE-OPERA/ige-opera.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.svg"
+logo                     : "/assets/images/logo-no-text.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -93,8 +93,8 @@ analytics:
 # Site Author
 author:
   name             : "OPERA"
-  avatar           : "/assets/images/logo.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Team bio"
+#  avatar           : "/assets/images/logo-no-text.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Open computational earth and climate science research"
   location         : "Grenoble, France"
 
 # Site Footer
