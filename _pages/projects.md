@@ -27,8 +27,8 @@ feature_row_projects:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
-  - image_path: "assets/images/projects/bubbleplast.png"
-    title: "BubblePlast"
+  - image_path: "assets/images/projects/bubbleplast.jpg"
+    title: "BUBBLEPLAST"
     excerpt: "Transfer through air bubble bursting of micro and nanoplastics from the ocean to the atmosphere <br> Contact: J. Thomas"
     url: "https://anr.fr/Project-ANR-23-CE34-0012"
     btn_class: "btn--primary"
