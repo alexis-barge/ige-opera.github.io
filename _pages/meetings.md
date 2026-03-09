@@ -8,10 +8,6 @@ layout: opera
 **Mondays at 10 AM** <br>
 **Presentations are either in English or French** 
 
-9 March 2026  
-OSUG B 105  
-Speaker: Laurent Brodeau (invited)  
-
 23 March 2026  
 OSUG B 105  
 Speaker: Vadim Bertrand  
@@ -41,3 +37,7 @@ Speaker: Jennie Thomas
 2 March 2026  
 OSUG B 105  
 Speaker: Ruth Price  
+
+9 March 2026  
+OSUG B 105  
+Speaker: Laurent Brodeau (invited)  
