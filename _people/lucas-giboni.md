@@ -4,7 +4,7 @@ firstname: "Lucas"
 pub_id: "Giboni L."
 role: "PhD Candidate"
 status: "active"
-sort_display: 111
+sort_display: 80
 image_path: /assets/images/people/lucas-giboni.png
 website: ""
 pronouns: "they/them"
