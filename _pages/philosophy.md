@@ -4,4 +4,4 @@ permalink: /philosophy/
 layout: opera
 ---
 
-How we work, in progress
+Under development
