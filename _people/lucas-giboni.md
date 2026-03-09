@@ -6,6 +6,5 @@ role: "PhD Candidate"
 status: "active"
 sort_display: 80
 image_path: /assets/images/people/lucas-giboni.png
-website: ""
 pronouns: "they/them"
 ---
