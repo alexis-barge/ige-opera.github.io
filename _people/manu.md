@@ -1,6 +1,6 @@
 ---
-lastname: "Emmanuel"
-firstname: "Cosme"
+lastname: "Cosme"
+firstname: "Emmanuel"
 pub_id: "Cosme, E."
 role: "Enseignant-chercheur"
 status: "active"
