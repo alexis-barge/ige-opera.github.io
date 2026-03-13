@@ -6,7 +6,7 @@ layout: opera
 feature_row_sofware:
   - image_path: "/assets/images/software/NEMO.png"
     title: "NEMO"
-    excerpt: "OPERA contributes to improving the representation of uncertainties and introducing ML components into NEMO, the  european ocean / sea-ice modelling framework."
+    excerpt: "OPERA contributes to improving the representation of uncertainties and introducing ML components within NEMO, the  european ocean / sea-ice modelling framework."
     url: "https://www.nemo-ocean.eu"     
     btn_class: "btn--primary"
     btn_label: "Learn more"
