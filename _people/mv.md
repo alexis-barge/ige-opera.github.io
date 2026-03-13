@@ -3,5 +3,6 @@ lastname: "Vigo"
 firstname: "Mykael"
 role: "Research Engineer"
 status: "active"
-image_path: /assets/images/circle_only.png
+sort_display: -1337
+assets/images/logo-no-text.png
 ---
