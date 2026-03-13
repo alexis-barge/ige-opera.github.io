@@ -27,14 +27,14 @@ geoscience:
 
 methods:
   - image_path: "/assets/images/home/calibrate.png"
-    title: "Physics-based modeling"
+    title: "Improving Process-Based Models"
     excerpt: "Development, calibration, evaluation, uncertainty quantification"
   - image_path: "/assets/images/home/ai.png"
-#    title: "AI for modeling and inversion"
+#    title: "Exploring Data-Driven Approaches"
     title: "ML-based approaches "
     excerpt: "Hybrid modelling, differentiable programming, neural data assimilation"
   - image_path: "/assets/images/home/modularity.png"
-    title: "Numerical system design"
+    title: "Enhancing Numerical System Design"
     excerpt: "Modularity, interoperability of models and monitoring systems"
 
 ---
@@ -47,7 +47,7 @@ methods:
 {% include feature_row id="geoscience"  %}
 
 
-<h1 style="text-align:center;color:#578BBD;">Computational tools </h1>
+<h1 style="text-align:center;color:#578BBD;">Advancing Computational Methods </h1>
 
  
 {% include feature_row id="methods" %}
